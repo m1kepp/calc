@@ -15,3 +15,5 @@ npm run build
 Шикунов Михаил Владимирович ФиБ 2025
 
 # Репозиторий
+
+https://github.com/m1kepp/calc

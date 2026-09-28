@@ -16,4 +16,4 @@ npm run build
 
 # Репозиторий
 
-https://github.com/m1kepp/higher-web-practice-calculator)
+https://github.com/m1kepp/higher-web-practice-calculator
